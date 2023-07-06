@@ -1,7 +1,7 @@
 < Olá mundo! Sou o Guilherme Garcia 👨🏻‍💻 />
 
 - 💫 Desenvolver Front-end / Mobile
--  HTML5, CSS3, REACT, JAVASCRIPT, TYPESCRIPT, BOOTSTRAP, REACT NATIVE, JAVA, SQL, REACT NATIVE, SWIFT.
+-  HTML5, CSS3, UI/UX, REACT, JAVASCRIPT, TYPESCRIPT, BOOTSTRAP, REACT NATIVE, JAVA, SQL, PHP, PYTHON, REACT NATIVE, SWIFT
 
 <div align="center">
   <a href="https://github.com/guigarcea">

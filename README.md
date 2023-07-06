@@ -1,7 +1,7 @@
-Hey! Sou o Guilherme Garcia 🤠
+< Olá mundo! Sou o Guilherme Garcia 👨🏻‍💻 />
 
-- 🔭 Procurando estágio/junior como desenvolvedor.
-- 🧑‍🎓 Estudando HTML5, CSS3, REACT, JAVASCRIPT, TYPESCRIPT, BOOTSTRAP, REACT NATIVE, JAVA, SQL
+- 💫 Desenvolver Front-end / Mobile
+-  HTML5, CSS3, REACT, JAVASCRIPT, TYPESCRIPT, BOOTSTRAP, REACT NATIVE, JAVA, SQL, REACT NATIVE, SWIFT.
 
 <div align="center">
   <a href="https://github.com/guigarcea">
